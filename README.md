@@ -1,4 +1,4 @@
-# rakbank-student-management-service
+# student-management-service
 
 The purpose of this microservice is to manage student's related data on the platform.
 
